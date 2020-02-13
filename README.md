@@ -1,5 +1,10 @@
 # E05-Input
 
+Added to the scripts to make the label display where the mouse cursor is and added inputs to allow the player to move the ship with wasd.
+
+
+
+
 This is an exercise to help you become accustomed to how Godot treats user input.
 
 Instructions are as follows:
